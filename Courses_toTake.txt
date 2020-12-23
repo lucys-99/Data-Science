@@ -1,0 +1,26 @@
+Courses to take:
+
+Basic Statistics -Amsterdam
+https://www.coursera.org/learn/basic-statistics?
+
+Tableau - Duke
+https://www.coursera.org/learn/analytics-tableau
+Big Data Specialization - UCSD
+https://www.coursera.org/specializations/big-data
+6 courses
+
+Machine Learning Specialization - UWash
+https://www.coursera.org/specializations/machine-learning
+regression, classification, clustering
+
+Probabilistic Graphical Models 1: Representation - stanford
+https://www.coursera.org/learn/probabilistic-graphical-models
+bayesian network, markov
+
+Cloud Computing Concepts, Part 1 - UIUC
+https://www.coursera.org/learn/cloud-computing
+5 weeks
+
+Data Science Specialization - John Hopkins
+https://www.coursera.org/specializations/jhu-data-science
+r, stats, regression, machine learning

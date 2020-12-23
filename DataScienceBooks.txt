@@ -1,0 +1,101 @@
+Forecasting: Principles and Practice
+https://otexts.com/fpp2/accuracy.html
+
+R for Data science
+https://r4ds.had.co.nz/introduction.html
+
+Introduction to Data Exploration and Analysis with R
+https://bookdown.org/mikemahoney218/LectureBook/
+
+Big Data Now 2016 Edition
+http://www.oreilly.com/data/free/files/big-data-now-2016-edition.pdf
+
+The Big Data Market
+http://www.oreilly.com/data/free/files/the-big-data-market.pdf
+
+Integrated Analytics
+http://www.oreilly.com/data/free/files/integrated-analytics.pdf
+
+Data Infrastructure for Next-Gen Finance
+http://www.oreilly.com/data/free/files/data-infrastructure-for-next-gen-finance.pdf
+
+Advancing Procurement Analytics
+http://www.oreilly.com/data/free/files/advancing-procurement-analytics.pdf
+
+The Global Impact of Open Data
+http://www.oreilly.com/data/free/files/the-global-impact-of-open-data.pdf
+
+Data Science for Modern Manufacturing
+http://www.oreilly.com/data/free/files/data-science-for-modern-manufacturing.pdf
+
+Mapping Big Data
+http://www.oreilly.com/data/free/files/mapping-big-data.pdf
+
+Business Models for the Data Economy
+http://www.oreilly.com/data/free/files/business-models-for-the-data-economy.pdf
+
+2016 Data Science Salary Survey
+http://www.oreilly.com/data/free/files/2016-data-science-salary-survey.pdf
+
+Embedding Analytics in Modern Applications
+http://www.oreilly.com/data/free/files/embedding-analytics-in-modern-applications.pdf
+
+Data Science in the Cloud with Microsoft Azure Machine Learning and Python
+http://www.oreilly.com/data/free/files/data-science-microsoft-azure-ml-python.pdf
+
+Self-Service Analytics
+http://www.oreilly.com/data/free/files/self-service-analytics.pdf
+
+Going Pro in Data Science
+http://www.oreilly.com/data/free/files/going-pro-in-data-science.pdf
+
+Evaluating Machine Learning Models
+http://www.oreilly.com/data/free/files/evaluating-machine-learning-models.pdf
+
+What is Data Science?
+http://www.oreilly.com/data/free/files/what-is-data-science.pdf
+
+Artificial Intelligence Now
+http://www.oreilly.com/data/free/files/artificial-intelligence-now.pdf
+
+Practical Artificial Intelligence in the Cloud
+http://www.oreilly.com/data/free/files/practical-artificial-intelligence-in-the-cloud.pdf
+
+The New Artificial Intelligence Market
+http://www.oreilly.com/data/free/files/the-new-artificial-intelligence-market.pdf
+
+AI and Medicine
+http://www.oreilly.com/data/free/files/ai-and-medicine.pdf
+
+What is Artificial Intelligence?
+http://www.oreilly.com/data/free/files/what-is-artificial-intelligence.pdf
+
+The Future of Machine Intelligence
+http://www.oreilly.com/data/free/files/future-of-machine-intelligence.pdf
+
+What Are Conversational Bots?
+http://www.oreilly.com/data/free/files/what-are-conversational-bots.pdf
+
+Architecting for Access: Simplifying Analytics on Big Data Infrastructure
+http://www.oreilly.com/data/free/files/architecting-for-access.pdf
+
+Hadoop and Spark Performance for the Enterprise
+http://www.oreilly.com/data/free/files/hadoop-and-spark-performance-for-the-enterprise.pdf
+
+In Search of Database Nirvana
+http://www.oreilly.com/data/free/files/in-search-of-database-nirvana.pdf
+
+Making Sense of Stream Processing
+http://www.oreilly.com/data/free/files/stream-processing.pdf
+
+Architecting Data Lakes
+http://www.oreilly.com/data/free/files/architecting-data-lakes.pdf
+
+Hadoop: What You Need to Know
+http://www.oreilly.com/data/free/files/hadoop-what-you-need-to-know.pdf
+
+Fast Data: Smart and at Scale
+http://www.oreilly.com/data/free/files/fast-data-smart-and-at-scale.pdf
+
+Migrating Big Data Analytics into the Cloud
+http://www.oreilly.com/data/free/files/migrating-big-data-analytics.pdf
